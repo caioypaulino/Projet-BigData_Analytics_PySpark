@@ -3,7 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\caio.paulino\Downloads\Amazon products dataset.csv">
+        <entry key="\a.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\amazon_electronics.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
