@@ -1,13 +1,13 @@
-# **Projeto: Processamento de BigData (PySpark)**
+# **Projeto: Processamento de Big Data (PySpark)**
 
 ## **Stack**
 Python (PySpark, pandas, matplot, seaborn), Jupyter Notebook.
 
 ## **Sobre**
-Projeto de operações em BigData(Fundamentos Básicos, Limpeza e Transformação, Geração de Insights, Gráficos, etc) utilizando PySpark para o processamento dos dados / DataFrames pandas e Matplotlib / Seaborn para construção de gráficos.
+Projeto de operações em Big Data(Fundamentos Básicos, Limpeza e Transformação, Geração de Insights, Gráficos, etc) utilizando PySpark para o processamento dos dados / DataFrames pandas e Matplotlib / Seaborn para construção de gráficos.
 
 ## **Sobre os Dados**
-Os dados foram retirados de um sample de Amazon products dataset (BigData), ou seja, são apenas 1000 linhas para exemplificar as operações de BigData realizadas no Jupyter Notebook. O DataSet completo é pago e pode ser encontrado na plataforma: https://brightdata.com.
+Os dados foram retirados de um sample de Amazon products dataset (Big Data), ou seja, são apenas 1000 linhas para exemplificar as operações de Big Data realizadas no Jupyter Notebook. O DataSet completo é pago e pode ser encontrado na plataforma: https://brightdata.com.
 
 ## **Jupyter Notebook:**
 Para acessar detalhadamente as análises e processos Jupyter Notebook, clique no link: https://github.com/caioypaulino/Projeto-BigData_Analytics_PySpark/blob/main/big_data_analytics.ipynb
