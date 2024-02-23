@@ -1,4 +1,4 @@
-# **Projeto: Processamento de BigData com PySpark**
+# **Projeto: Processamento de BigData (PySpark)**
 
 ## **Stack**
 Python (PySpark, pandas, matplot, seaborn), Jupyter Notebook.
